@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["turbopack:///[project]/Pet/filmsapp/components/header/components/styles.module.css"],"sourcesContent":[".searchContainer {\r\n  display: flex;\r\n  align-items: center;\r\n  border-radius: 8px;\r\n  padding: 4px;\r\n  width: 100%;\r\n  width: 60rem;\r\n}\r\n\r\n.select {\r\n  color: #fff;\r\n  border: none;\r\n  border-radius: 8px 0 0 8px;\r\n  padding: 8px;\r\n  font-size: 14px;\r\n  cursor: pointer;\r\n}\r\n\r\n.input {\r\n  flex: 1;\r\n  border: none;\r\n  color: #fff;\r\n  padding: 8px 12px;\r\n  border-radius: 0 8px 8px 0;\r\n  font-size: 14px;\r\n  outline: none;\r\n}\r\n\r\n.icon {\r\n  color: #fff;\r\n  padding: 8px;\r\n}\r\n"],"names":[],"mappings":"AAAA;;;;;;;;AASA;;;;;;;;;AASA;;;;;;;;;;AAUA"}}]
+}

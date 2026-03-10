@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 10, "column": 0}, "map": {"version":3,"sources":["file:///home/larisa/Pet/filmsapp/pages/films/index.tsx"],"sourcesContent":["export default function FilmsPage() {\n  return <div>FilmsPage</div>\n}\n"],"names":[],"mappings":";;;;;;AAAe,SAAS;IACtB,qBAAO,qKAAC;kBAAI;;;;;;AACd"}}]
+}

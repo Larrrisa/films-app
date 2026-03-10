@@ -1,0 +1,53 @@
+/* [project]/Pet/filmsapp/components/header/styles.module.css [app-client] (css) */
+.styles-module__bCgHca__nav {
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 5rem;
+  display: flex;
+}
+
+.styles-module__bCgHca__nav ul {
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  font-size: 2rem;
+  list-style-type: none;
+  display: flex;
+}
+
+.styles-module__bCgHca__login {
+  flex-direction: row;
+  align-items: center;
+  gap: .5rem;
+  display: flex;
+}
+
+.styles-module__bCgHca__login span {
+  width: 24px;
+  height: 24px;
+}
+
+.styles-module__bCgHca__theme {
+  cursor: pointer;
+  align-items: center;
+  display: flex;
+}
+
+.styles-module__bCgHca__logo {
+  width: 5rem;
+  height: 5rem;
+  margin-right: 2rem;
+}
+
+.styles-module__bCgHca__logo img {
+  width: 100%;
+  height: 100%;
+}
+
+.styles-module__bCgHca__login_button {
+  align-items: center;
+  gap: .5rem;
+  display: flex;
+}
+
+/*# sourceMappingURL=Pet_filmsapp_components_header_styles_module_css_bad6b30c._.single.css.map*/

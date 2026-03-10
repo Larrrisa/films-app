@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["turbopack:///[project]/Pet/filmsapp/components/header/styles.module.css"],"sourcesContent":[".nav {\r\n  display: flex;\r\n  align-items: center;\r\n  justify-content: space-between;\r\n  margin-bottom: 5rem;\r\n}\r\n\r\n.nav ul {\r\n  display: flex;\r\n  justify-content: space-between;\r\n  align-items: center;\r\n  list-style-type: none;\r\n  font-size: 2rem;\r\n  width: 100%;\r\n}\r\n.login {\r\n  display: flex;\r\n  flex-direction: row;\r\n  gap: 0.5rem;\r\n  align-items: center;\r\n}\r\n.login span {\r\n  width: 24px;\r\n  height: 24px;\r\n}\r\n\r\n.theme {\r\n  cursor: pointer;\r\n  display: flex;\r\n  align-items: center;\r\n}\r\n\r\n.logo {\r\n  width: 5rem;\r\n  height: 5rem;\r\n  margin-right: 2rem;\r\n}\r\n\r\n.logo img {\r\n  width: 100%;\r\n  height: 100%;\r\n}\r\n\r\n.login_button {\r\n  display: flex;\r\n  align-items: center;\r\n  gap: 0.5rem;\r\n}\r\n"],"names":[],"mappings":"AAAA;;;;;;;AAOA;;;;;;;;;AAQA;;;;;;;AAMA;;;;;AAKA;;;;;;AAMA;;;;;;AAMA;;;;;AAKA"}}]
+}
