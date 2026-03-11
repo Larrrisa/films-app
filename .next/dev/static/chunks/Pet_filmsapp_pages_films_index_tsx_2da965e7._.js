@@ -7,7 +7,7 @@
   "static/chunks/b92f1_next_dist_d8daaca6._.js",
   "static/chunks/b92f1_react-dom_a96a2118._.js",
   "static/chunks/b92f1_8c1fc5f2._.js",
-  "static/chunks/[root-of-the-server]__273ded08._.js"
+  "static/chunks/[root-of-the-server]__3f06aa88._.js"
 ],
     source: "entry"
 });
