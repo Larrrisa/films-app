@@ -1,4 +1,4 @@
-import { Link } from "react-router";
+import Link from "next/link";
 
 import { ArrowIcon } from "../icons/ArrowIcon";
 import {
@@ -16,42 +16,42 @@ export function Footer() {
       <nav className={style.nav}>
         <ul>
           <li className={style.item}>
-            <Link to="/films">Films</Link>
+            <Link href="/films">Films</Link>
             <ArrowIcon />
           </li>
           <li className={style.item}>
-            <Link to="/shows">TV shows</Link>
+            <Link  href="/shows">TV shows</Link>
             <ArrowIcon />
           </li>
           <li className={style.item}>
-            <Link to="/trending">Trending films</Link>
+            <Link  href="/trending">Trending films</Link>
             <ArrowIcon />
           </li>
         </ul>
       </nav>
       <div className={style.social}>
         <span className={style.social_item}>
-          <Link to="#">
+          <Link  href="#">
             <FacebookIcon />
           </Link>
         </span>
         <span className={style.social_item}>
-          <Link to="#">
+          <Link  href="#">
             <InstagramIcon />
           </Link>
         </span>
         <span className={style.social_item}>
-          <Link to="#">
+          <Link  href="#">
             <TikTokIcon />
           </Link>
         </span>
         <span className={style.social_item}>
-          <Link to="#">
+          <Link  href="#">
             <YoutubeIcon />
           </Link>
         </span>
         <span className={style.social_item}>
-          <Link to="#">
+          <Link  href="#">
             <XIcon />
           </Link>
         </span>

@@ -3,10 +3,9 @@ import CardActionArea from "@mui/material/CardActionArea";
 import CardContent from "@mui/material/CardContent";
 import CardMedia from "@mui/material/CardMedia";
 import Typography from "@mui/material/Typography";
-import { Link } from "react-router";
-
-import { Film, Shows } from "../../types/types";
-import { InfoIcon, StarFullIcon, StarIcon } from "../icons";
+import Link from "next/link";
+import { Film, Shows } from "@/types/types";
+import { InfoIcon, StarFullIcon, StarIcon } from "@/components/icons";
 
 import style from "./styles.module.css";
 
@@ -18,7 +17,7 @@ interface CardProps {
 export default function Card({ data, width = 400 }: CardProps) {
   return (
     <MuiCard sx={{ width: width }} className={style.card}>
-      <Link to={`/movie/${data.id}`}>
+      <Link href={`/movie/${data.id}`}>
         <CardActionArea>
           <CardMedia
             component="img"
